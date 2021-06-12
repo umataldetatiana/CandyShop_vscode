@@ -1,0 +1,21 @@
+{
+    "name": "candycode",
+    "displayName": "Candy-code",
+    "description": "candy candy code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "candy code theme",
+                "uiTheme": "vs",
+                "path": "./themes/candy code theme-color-theme.json"
+            }
+        ]
+    }
+}
